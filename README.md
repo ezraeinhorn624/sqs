@@ -1,7 +1,7 @@
 # SQS Repo
 Squarespace code &amp; extensions that I built myself to accomplish
 what Squarespace either doesn't support or what Squarespace does not
-provide a configuration for. Most code uses vanila JS and Jquery.
+provide a configuration for. Most code uses vanilla JS and Jquery.
 
 ## Usage
 My intent is that every piece of code in this specific repo be
